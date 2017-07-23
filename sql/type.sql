@@ -1,0 +1,5 @@
+USE codehunter;
+CREATE TABLE type(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	type VARCHAR(2)DEFAULT 2
+)

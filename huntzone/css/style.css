@@ -1,0 +1,135 @@
+body{
+	
+	background-color: white;
+}
+#control_box{
+	position: relative;
+	width: 100%;
+	height: 70px;
+	background-color:brown;
+	border-radius: 10px;
+	border: 2px solid green;
+}
+#heading{
+	color:white;
+	font-size: 50;
+	font-family: andalus;
+	margin-left: 200px;
+	font-weight: bold;
+}
+
+}
+#button_zone{
+	
+}
+#run{
+	background-color: brown;
+	border: none;
+}
+#reset{
+	background-color: brown;
+	border: none;
+}
+#save{
+	background-color: brown;
+	border: none;
+}
+#download{
+	background-color: brown;
+	border: none;
+	
+}
+#refresh{
+	background-color: white;
+	border:none;
+}
+#kill{
+	background-color: brown;
+	border:none;
+}
+#create_new_folder{
+	background-color: brown;
+	border:none;
+}
+
+#input,#save_name,#selectmenu,#commandline,#selectdelete,#sett,#s,#delete,#change,#folder{
+	width: auto;
+	height: 30px;
+	border-radius: 5px;
+	color: #122e05;
+	
+}
+
+#footer{
+	position: relative;
+	width: 100%;
+	height: 28px;
+	background-color: brown;
+	border-radius: 10px;
+	color:white;
+	
+	text-align: center;
+
+}
+#sjn{
+	position: absolute;
+	color: transparent;
+	opacity: 0;
+	margin-top: 10px;
+	z-index: 1;
+	
+}
+#upl{
+	
+	z-index: auto;
+	margin-left: 25px;
+	
+}
+#adm{
+	margin-left: 200px;
+	border-radius:30px;
+	
+}
+#greet{
+	color:white;
+	font-size: 20;
+}
+#code{
+	position: relative;
+	margin-left: 20px;
+	
+}
+#output{
+	padding:16px 15px;
+	background-color: #f0f0f0;
+	color:blue;
+	cursor: not-allowed;
+}
+#mn{
+	display: none;
+	margin-left: 1230px;
+	width: 100px;
+	height: 300px;
+	background-color: brown;
+	padding: 5px;
+	text-align: center;
+	top: 0;
+}
+#main{
+	background-color:#f0f0f0;
+}
+.list{
+	color: white;
+	width: 130px;
+	height: 35px;
+	background-color: #002166;
+	padding: 10px 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+#error{
+	color: red;
+}
+textarea{
+	width: 100%;
+}

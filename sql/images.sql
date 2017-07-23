@@ -1,0 +1,5 @@
+USE codehunter;
+CREATE  TABLE images(
+	id INT PRIMARY KEY AUTO_INCREMENT,
+	path VARCHAR(32)
+)

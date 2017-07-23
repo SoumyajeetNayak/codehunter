@@ -1,0 +1,5 @@
+USE codehunter;
+CREATE TABLE login_status(
+id INT PRIMARY KEY AUTO_INCREMENT,
+status BIT DEFAULT 1
+)

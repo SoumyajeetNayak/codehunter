@@ -1,0 +1,143 @@
+body{
+	
+	background: white;
+}
+#control_box{
+	position: relative;
+	width: 100%;
+	height: 70px;
+	background-color:brown;
+	border-radius: 10px;
+	border: 2px solid green;
+}
+#heading{
+	color:white;
+	font-size: 50;
+	font-family: andalus;
+	margin-left: 550px;
+	margin-top: 70px;
+	font-weight: bold;
+}
+
+
+
+}
+#refresh{
+	background-color: white;
+	border:none;
+}
+
+
+
+#footer{
+	position: relative;
+	width: 100%;
+	height: 28px;
+	background-color: brown;
+	border-radius: 10px;
+	color:white;
+	margin-top: 0px;
+	
+	text-align: center;
+
+}
+.btn{
+	background-color:#003bb3;
+	color:white;
+	font-family: Courier New;
+	width: 80px;
+	height: 30px;
+	
+}
+.head{
+	margin-left: 480px;
+	background-color: brown;
+	color: white;
+	height: 30px;
+	width: 350px;
+	text-align: center;
+	margin-top: 5px;
+}
+.img{
+	
+}
+#foot{
+	margin-left: 480px;
+	background-color: brown;
+	height: 10px;
+	width: 350px;
+}
+#lgn{
+	width: 500px;
+	height: auto;
+	margin-left: 380px;
+}
+#reg{
+	widows: 600px;
+	height: auto;
+}
+#main{
+	width: 100%;
+	height: auto;
+	background-color: #f0f0f0;
+	
+}
+.list{
+	color: white;
+	width: 130px;
+	height: 35px;
+	background-color: #002166;
+	padding: 10px 10px;
+	border-radius: 5px;
+	text-align: center;
+}
+#reg1{
+	margin-left: 200px;
+}
+#error{
+	
+	color: red;
+	margin-left: 300px;
+	text-decoration: underline;
+	
+}
+#message{
+	position: absolute;
+	display: none;
+	width: 100%;
+	height: 6%;
+	background-color: #bada55;
+	text-align: center;
+	font-size: 20;
+	font-family: andalus;
+	color: green;
+	padding: 10px;
+}
+
+.index{
+	
+	font-weight: bold;
+	font-size: 20;
+	font-family: Courier New;
+}
+
+.value{
+	color: blue;
+	font-size:20;
+	text-decoration: underline;
+	font-family: Times New Roman;
+	
+}
+.data{
+	color:red;
+	font-size:20;
+	font-family: andalus;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.domain{
+	color:blue;
+	font-size: 20;
+	font-family: andalus;
+	font-weight: bolder;
+}

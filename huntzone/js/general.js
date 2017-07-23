@@ -1,0 +1,1 @@
+$('.butn').css('cursor','pointer');

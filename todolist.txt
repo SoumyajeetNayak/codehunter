@@ -1,0 +1,21 @@
+To Do List for the codehunter
+
+2.Add drag and drop to the input section.
+3.Take care of the upload code so that it will not open a new tab during upload.
+4.Add ajax based form submition for login, register and other settings.
+
+8.Create a admin account.
+10. Create share link to share a program with every one.
+11.Indent and give date and heading and comment line to every page.
+13.A registration conformation to be send by email.
+14.Remove .c extention in the save_name display.
+15.Add jQuery alert for alerts.
+18.design your dropdown.
+20.Add proper security to each page.
+21.Sanitize all input fields. Prevent getch() and other system call.
+22.Add a context menu on the code editor with all the features made available on the buttons.
+23. Add a new button that will give clear the codign textbox to write a new program.
+24. Make a feature to create new folder by user.
+25. Make a compile and run button differently.
+26. Display cc filename.c and ./a.out running information on the output pane.
+
